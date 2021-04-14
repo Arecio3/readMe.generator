@@ -1,14 +1,22 @@
 {
-  "name": "static-site",
+  "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Your Task",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Arecio",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arecio3/readMe.generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arecio3/readMe.generator/issues"
+  },
+  "homepage": "https://github.com/Arecio3/readMe.generator#readme"
 }
