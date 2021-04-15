@@ -34,4 +34,4 @@ A short descripition of the project.
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   # Walkthrough Vide0
-  [![Video](https://drive.google.com/file/d/1c_GEm3lpwhdUoIJVKQrZbr74ddyTmrLT/view)
+  [[Video](https://drive.google.com/file/d/1c_GEm3lpwhdUoIJVKQrZbr74ddyTmrLT/view)
