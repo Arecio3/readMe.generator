@@ -2,7 +2,7 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const markdown = require("./utils/generateMarkdown");
-const { log } = require("console");
+// const { log } = require("console");
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -15,11 +15,13 @@ const questions = [
         type: 'input',
         name: 'userName',
         message: 'What is your Github username?',
+        default: 'Arecio3',
     },
     {
         type: 'input',
         name: 'emailName',
         message: 'What is your email?',
+        default: 'cuba289@gmail.com'
     },
     {
         type: 'list',
