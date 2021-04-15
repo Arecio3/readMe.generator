@@ -1,5 +1,5 @@
 # READme Generator
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   # Table of Contents 
   * [Installation](#Installation) 
@@ -10,7 +10,7 @@
   * [Questions](#questions)
   
   # Description 
-A short descripition of the project.
+This is a Back-end application that creates a readMe through asking you some questions in the terminal!
   
   # Installation
    **npm i**
@@ -31,5 +31,5 @@ A short descripition of the project.
 
 
   # License
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
