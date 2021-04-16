@@ -45,15 +45,15 @@ function generateMarkdown(data) {
   * [Usage](#Usage) 
   ${renderLicenseLink(data.license)}
   * [Contributing](#Contribute) 
-  * [Testing](#testing)
-  * [Questions](#questions)
+  * [Testing](#Testing)
+  * [Questions](#Questions)
   
   # ${'Description \n' + data.description}
   
   # Installation
    **${data.install}**
 
-  # Testing Application
+  # Testing
   **${data.runTest}**
 
   # Contribute

@@ -6,8 +6,8 @@
   * [Usage](#Usage) 
   * [License](#license)
   * [Contributing](#Contribute) 
-  * [Testing](#testing)
-  * [Questions](#questions)
+  * [Testing](#Testing)
+  * [Questions](#Questions)
   
   # Description 
 This is a Back-end application that creates a readMe through asking you some questions in the terminal
@@ -15,7 +15,7 @@ This is a Back-end application that creates a readMe through asking you some que
   # Installation
    **npm i**
 
-  # Testing Application
+  # Testing
   **npm test**
 
   # Contribute
